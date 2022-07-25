@@ -32,7 +32,7 @@ Some might already be on alliance contract in staging; if they are not, see [Jum
 Each doctrine has an in-game channel associated with that has the fits for DPS, Logi, and relevant support and is in parentheses after the doctrine name in the below list.
 
 ### Ships you must own
-* 10MN Tengus (TO-DO make channel and link here)
+* 10MN Tengus (`BIGAB.tengus`)
 * 10MN Lokis (`BIGAB.lokis`)
 * Nightmare (`BIGAB.nightmares`)
 * Cerberus (`BIGAB.cerbs`)
