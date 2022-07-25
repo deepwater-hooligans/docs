@@ -19,6 +19,10 @@ Some common instances of these and other things that might be okay in other plac
 * Use of "REEEEE" / "autistic screeching" to express frustration (^see above)
 * Xenophobia (see: sinophobia)
 
+## Current staging
+
+`Mantenault - aPES-ILovePanda`.
+
 ## Things you must own
 
 You **must** own at least one of each of of the below.
@@ -60,4 +64,17 @@ These doctrines are handout-only, but you must be skilled into at least one ship
 * Ishtars
 
 ## Jump freight
-Our jump freighter service runs on an extremely regular basis and is the primary method by which we supply doctrines. We use the corporation `Sock Workers` to handle all freight contracts. The rate to and from Jita to Mantenault (our current staging) is 500 ISK/m3. No collateral is preferred. If you feel the need to use collateral, please add 2.5% to the calculated rate of your courier and be prepared to wait longer, as JF pilots may give priority to uncollateralized contracts. All JF contracts run by Sock Workers are 100% insured by the alliance, so if anything does happen to them, you will be reimbursed.
+Our corporation `Sock Workers` accepts courier contracts.
+
+Contracts are generally one at least once daily.
+
+The reward rate between Jita and Mantenault is 500 ISK/m3.
+
+7 days expiry, 7 days to complete.
+
+**Zero collateral** is strongly preferred.  Sock Workers operations are insured with the full faith and backing of Deepwater Hooligans.
+
+Collateral, like guacamole, is extra.
+🥑 If you feel the need to use collateral, add 2.5% to the above rate -- and be prepared to wait longer, as JF pilots may give priority to uncollateralized contracts.
+
+
