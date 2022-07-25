@@ -21,7 +21,7 @@ Some common instances of these and other things that might be okay in other plac
 
 ## Current staging
 
-`Mantenault - aPES-ILovePanda`.
+`Mantenault - aPES-ILovePanda` Fortizar.
 
 ## Things you must own
 
