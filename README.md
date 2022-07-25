@@ -2,7 +2,20 @@
 
 Welcome to the most crunchwrap supreme mid-scale pvp group.
 
-## Culture and etiquette
+## Culture and Etiquette
+In Discord, Teamspeak, or any other communication platform we may use within the game, it is never okay to participate in or perpetuate (yes, even ironically):
+* Racism
+* Sexism
+* Homophobia
+* Transphobia
+
+Some common instances of these and other things that might be okay in other places in EVE, but are not okay on BIGAB or SOUND comms:
+* Use of 'gay' and similar as a slur 
+* Use of 'rape' as a synonym for kill/destroy/etc
+* Use of 'retard' and similar (I know many of us have used this a lot in the past, and we are improving, but let's all make an effort to be better about this.)
+* Use of 'autistic' or similar as a disparaging slur
+* Use of "REEEEE" / "autistic screeching" to express frustration (^see above)
+* Xenophobia (see: sinophobia)
 
 ## Things you must own
 
