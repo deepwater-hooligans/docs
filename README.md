@@ -66,7 +66,7 @@ These doctrines are handout-only, but you must be skilled into at least one ship
 ## Jump freight
 Our corporation `Sock Workers` accepts courier contracts.
 
-Contracts are generally one at least once daily.
+Contracts are generally run at least once daily.
 
 The reward rate between Jita and Mantenault is 500 ISK/m3.
 
