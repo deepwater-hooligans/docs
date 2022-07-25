@@ -72,7 +72,7 @@ The reward rate between Jita and Mantenault is 500 ISK/m3.
 
 7 days expiry, 7 days to complete.
 
-**Zero collateral** is strongly preferred.  Sock Workers operations are insured with the full faith and backing of Deepwater Hooligans.
+**Zero collateral** is strongly preferred.  Sock Workers operations are 100% insured with the full faith and backing of Deepwater Hooligans.
 
 Collateral, like guacamole, is extra.
 🥑 If you feel the need to use collateral, add 2.5% to the above rate -- and be prepared to wait longer, as JF pilots may give priority to uncollateralized contracts.
