@@ -2,6 +2,8 @@
 
 Welcome to the most crunchwrap supreme mid-scale pvp group.
 
+**Please read this entire document.**  We have done our best to keep it short.
+
 ## Culture and Etiquette
 In Discord, Teamspeak, or any other communication platform we may use within the game, it is never okay to participate in or perpetuate (yes, even ironically):
 * Racism
