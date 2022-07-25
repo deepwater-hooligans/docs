@@ -4,9 +4,11 @@ Welcome to the most crunchwrap supreme mid-scale pvp group.
 
 ## Culture and etiquette
 
-## Things you **must** own
+## Things you must own
 
-You must own at least one of each of of the below.  Some might already be on alliance contract in staging; if they are not, see [Jump freight](#jump-freight) for how to get them shipped in.
+You **must** own at least one of each of of the below.
+
+Some might already be on alliance contract in staging; if they are not, see [Jump freight](#jump-freight) for how to get them shipped in.
 
 ### Ships you must own
 * a dps Tengu
@@ -18,7 +20,7 @@ You must own at least one of each of of the below.  Some might already be on all
 
 These are the line dps ships for our main doctrines.
 
-Logi and other support ships are handout.
+Logi and other support ships are handout; don't buy personal copies.
 
 You **must** own a dps ship even if you usually fly support.
 
