@@ -27,11 +27,11 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 
 ### Ships you must own
 * 10MN Tengus (TO-DO make channel and link here)
-* 10MN Lokis (BIGAB.lokis)
-* Nightmare (BIGAB.nightmares)
-* Cerberus (BIGAB.cerbs)
-* 10MN Legion (BIGAB.heavyarmor)
-* Tempest Fleet Issue (BIGAB.heavyarmor)
+* 10MN Lokis (`BIGAB.lokis`)
+* Nightmare (`BIGAB.nightmares`)
+* Cerberus (`BIGAB.cerbs`)
+* 10MN Legion (`BIGAB.heavyarmor`)
+* Tempest Fleet Issue (`BIGAB.heavyarmor`)
 
 These are the line dps ships for our main doctrines.
 
@@ -40,8 +40,8 @@ Logi and other support ships are handout; don't buy personal copies.
 You **must** own a dps ship even if you usually fly support.
 
 ### Pods you must own
-* A Nightmare hardwirings pod (available in the cargo of the Nightmare in the BIGAB.nightmares channel)
-* Mid-grade Amulet pod (w/ HG-1005). If you can afford a high-grade pod buy one, but be warned there is no POD SRP
+* A Nightmare hardwirings pod (available in the cargo of the Nightmare in the `BIGAB.nightmares` channel)
+* Mid-grade Amulet pod (w/ HG-1005). If you can afford a high-grade pod buy one, but be warned there is **no pod SRP**
 
 ## Things you should probably own
 
