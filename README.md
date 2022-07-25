@@ -60,8 +60,8 @@ You **must** own a dps ship even if you usually fly support.
 
 These doctrines are handout-only, but you must be skilled into at least one ship for them.
 
-* Kikimoras (+ Scapels, Keres)
-* Ishtars
+* Kikimoras (+ Scalpels, Keres, Hyena)
+* Ishtars (+ Basilisk, Huginn, Lachesis)
 
 ## Jump freight
 Our corporation `Sock Workers` accepts courier contracts.
