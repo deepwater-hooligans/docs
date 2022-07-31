@@ -78,3 +78,16 @@ Collateral, like guacamole, is extra.
 🥑 If you feel the need to use collateral, add 2.5% to the above rate -- and be prepared to wait longer, as JF pilots may give priority to uncollateralized contracts.
 
 
+## Special interest groups
+### Open to anyone
+* **Black Ops** -- pings for blops drops.  Owning an armor buffer blops or other conduitable armor buffer utility ship is recommended.  Owning an active shield blops for solo/smaller gang is nice but not necessary.
+* **Warlords** -- structure bashing sig to make timers for fights.  Leshak or other heavy armor ship recommended.
+* **Pochven** -- krabbing and king of the hill PVP in Pochven.  An average night is 750M in payout and some frags.
+### Talk to leadership
+* **Capitals** -- capital fits and pings.  JDC5 and cap ownership required.
+* **Supers** -- all supers (hyper and tank) go in this channel, discuss with Tim to get access
+* **Armor supers** -- armor supers and titans.  Dedicated fax alt + armor buffer fax ownership required.  Discuss w/ Tim for access
+* **Scouts** -- eyes alts, structure hackers, wormhole scanners, cyno alt movers.  You need a vouch from your CEO or from Tim to join
+* **Space chores** -- structure fuellers, other logistics.  You need a vouch from your CEO or from Tim to join
+* **Fleet command** -- if you are interested in FCing, no matter how big or small, reach out to Tim.
+* **Waterboards** -- prevent the enemy from using JBs, kill stragglers to fleets, etc.  Talk to Akov Stohs about this.
