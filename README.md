@@ -80,7 +80,9 @@ Collateral, like guacamole, is extra.
 
 ## Special interest groups
 ### Open to anyone
+These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
 * **Black Ops** -- pings for blops drops.  Owning an armor buffer blops or other conduitable armor buffer utility ship is recommended.  Owning an active shield blops for solo/smaller gang is nice but not necessary.
+* **Deadliest Catch** -- similar to blops but more focused on hunting high-value targets like ratting supers, CRAB dreads.  You need an armor Legion to be useful in this group; fits are in Discord pins once you join.
 * **Warlords** -- structure bashing sig to make timers for fights.  Leshak or other heavy armor ship recommended.
 * **Pochven** -- krabbing and king of the hill PVP in Pochven.  An average night is 750M in payout and some frags.
 ### Talk to leadership
