@@ -88,8 +88,8 @@ These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
 ### Talk to leadership
 * **Capitals** -- capital fits and pings.  JDC5 and cap ownership required.
 * **Supers** -- all supers (hyper and tank) go in this channel, discuss with Tim to get access
-* **Armor supers** -- armor supers and titans.  Dedicated fax alt + armor buffer fax ownership required.  Discuss w/ Tim for access
+* **Armor Supers** -- armor supers and titans.  Dedicated fax alt + armor buffer fax ownership required.  Discuss w/ Tim for access
 * **Scouts** -- eyes alts, structure hackers, wormhole scanners, cyno alt movers.  You need a vouch from your CEO or from Tim to join
-* **Space chores** -- structure fuellers, other logistics.  You need a vouch from your CEO or from Tim to join
-* **Fleet command** -- if you are interested in FCing, no matter how big or small, reach out to Tim.
+* **Space Chores** -- structure fuellers, other logistics.  You need a vouch from your CEO or from Tim to join
+* **Fleet Command** -- if you are interested in FCing, no matter how big or small, reach out to Tim.
 * **Waterboards** -- prevent the enemy from using JBs, kill stragglers to fleets, etc.  Talk to Akov Stohs about this.
