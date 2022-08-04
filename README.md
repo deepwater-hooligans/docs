@@ -65,7 +65,6 @@ You **must** own a dps ship even if you usually fly support.
 These doctrines are handout-only, but you must be skilled into at least one ship for them.
 
 * Kikimoras (+ Scalpels, Keres, Hyena)
-* Ishtars (+ Basilisk, Huginn, Lachesis)
 
 ## Jump freight
 Our corporation `Sock Workers` accepts courier contracts.
@@ -97,3 +96,15 @@ These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
 * **Space Chores** -- structure fuellers, other logistics.  You need a vouch from your CEO or from Tim to join
 * **Fleet Command** -- if you are interested in FCing, no matter how big or small, reach out to Tim.
 * **Waterboards** -- prevent the enemy from using JBs, kill stragglers to fleets, etc.  Talk to Akov Stohs about this.
+
+## SRP
+
+### Subcaps
+DPS: 50% on all hulls
+Cyno Recons: 100%
+Sabres: 100%
+
+### Capitals
+Dreads: 1.5b
+FAX: 1.75b
+Carriers: 1.25b
