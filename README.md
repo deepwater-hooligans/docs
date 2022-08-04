@@ -100,11 +100,11 @@ These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
 ## SRP
 
 ### Subcaps
-DPS: 50% on all hulls
-Cyno Recons: 100%
-Sabres: 100%
+* DPS: 50% on all hulls
+* Cyno Recons: 100%
+* Sabres: 100%
 
 ### Capitals
-Dreads: 1.5b
-FAX: 1.75b
-Carriers: 1.25b
+* Dreads: 1.5b
+* FAX: 1.75b
+* Carriers: 1.25b
