@@ -22,7 +22,9 @@ Some common instances of these and other things that might be okay in other plac
 ## Current staging
 
 `RQH-MY - shattered brain` Fortizar for: `Armor Blops, Shield Doctrines: Lokis, Tengus, Cerbs, Nightmares, Dreads, Bombers, Smallgang`
+
 `MQ-NPY - chocolate chip cereal` Fortizar for: `Armor Carriers, secondary fax and Gatecamp vessels`
+
 `Mantenault - aPES_ILovePanda` Fortizar for: `Armor Doctrines: TFIs, Legions`
 
 ## Things you must own
