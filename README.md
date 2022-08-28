@@ -69,7 +69,7 @@ Our corporation `Sock Workers` accepts courier contracts.
 
 Contracts are generally run at least once daily.
 
-The reward rate between Jita and Mantenault is 500 ISK/m3.
+The reward rate between Jita and Lantorn is 400 ISK/m3.
 
 7 days expiry, 7 days to complete.
 
