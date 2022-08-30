@@ -37,7 +37,7 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 * 10MN Tengu (`BIGAB.tengus`)
 * 10MN Loki (`BIGAB.lokis`)
 * Nightmare (`BIGAB.nightmares`)
-* Cerberus (`BIGAB.cerbs`)
+* Cerberus (`BIGAB.cerbs`) (Not req'd for Lantorn deployment)
 * 10MN Legion (`BIGAB.heavyarmor`)
 * Tempest Fleet Issue (`BIGAB.heavyarmor`)
 
