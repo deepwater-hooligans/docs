@@ -21,9 +21,7 @@ Some common instances of these and other things that might be okay in other plac
 
 ## Current staging
 
-`Lantorn VI - Moon 4 - Expert Distribution Warehouse` - All subcaps **Deathclones Here**
-
-`Amamake - Finally.` (Keepstar) - Supers go here
+`Hasateem - HasaDezNuts` - All subcaps **Deathclones Here**
 
 ## Things you must own
 
@@ -69,7 +67,7 @@ Our corporation `Sock Workers` accepts courier contracts.
 
 Contracts are generally run at least once daily.
 
-The reward rate between Jita and Lantorn is 400 ISK/m3.
+The reward rate between Jita and Hasateem is 600 ISK/m3.
 
 7 days expiry, 7 days to complete.
 
