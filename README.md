@@ -21,9 +21,15 @@ Some common instances of these and other things that might be okay in other plac
 
 ## Current staging
 
-`Kamela - Retreating Crew` - All subcaps **Deathclones Here**
+`Turnur - Limes` - All subcaps **Deathclones Here**
 
 `Amamake - Hydra Provail` - Supercaps
+
+### Turnur
+
+The EVE system "Turnur" recently experienced an event where the star in the system exploded. This event has caused the appearance of 6 static wormholes in the system. These wormholes consist of 3 nullsec wormholes, 2 lowsec wormholes, and 1 highsec. These provide access to different areas of space for roaming, whaling, or other fun activities.
+
+See the follow-up section for instructions on accessing our map of Turnur in PathFinder.  
 
 ## Things you must own
 
@@ -77,6 +83,15 @@ The reward rate between Jita and Kamela is 450 ISK/m3.
 Collateral, like guacamole, is extra.
 🥑 If you feel the need to use collateral, add 2.5% to the above rate -- and be prepared to wait longer, as JF pilots may give priority to uncollateralized contracts.
 
+## Using PathFinder for Wormhole Mapping in Turnur
+
+PathFinder provides a map of wormhole systems represented as a graph of vertices and edges. Each vertex represents a wormhole system, and each edge represents the wormhole connection between systems. This allows you to easily visualize the network of wormholes and navigate through them.
+
+For new members, it is important to follow the naming conventions for wormholes as mentioned in the #pings discord channel. This will ensure the wormholes are correctly identified in your alliance bookmark folder.
+
+See [#pings](https://discord.com/channels/758877276472999936/759154715174502460/1065821031945736202) for BIGAB's official naming convention for wormholes. Our wormhole bookmarks folder is available in the MOTD of our Alliance chat channel.
+
+Visit [PathFinder](https://pf.deepwaterhooligans.com/map) to view the wormhole map. Login with your BIGAB scanning character via ESI. Only in-alliance characters are currently allowed to access the map. 
 
 ## Special interest groups
 ### Open to anyone
