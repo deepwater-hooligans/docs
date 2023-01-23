@@ -53,7 +53,7 @@ Logi and other support ships are handout; don't buy personal copies.
 You **must** own a dps ship even if you usually fly support.
 
 ### Pods you must own
-* A Nightmare hardwirings pod (available in the cargo of the Nightmare in the `BIGAB.nightmares` channel)
+* Mid-grade Nirvana + hardwirings pod (available in the cargo of the Nightmare in the `BIGAB.nightmares` channel)
 * Mid-grade Amulet pod (w/ HG-1005). If you can afford a high-grade pod buy one, but be warned there is **no pod SRP**
 
 ## Things you should probably own
