@@ -29,7 +29,7 @@ Some common instances of these and other things that might be okay in other plac
 
 The EVE system "Turnur" recently experienced an event where the star in the system exploded. This event has caused the appearance of 6 static wormholes in the system. These wormholes consist of 3 nullsec wormholes, 2 lowsec wormholes, and 1 highsec. These provide access to different areas of space for roaming, whaling, or other fun activities.
 
-See the follow-up section for instructions on accessing our map of Turnur in PathFinder.  
+See the [follow-up](#using-pathfinder-for-wormhole-mapping-in-turnur) section for instructions on accessing our map of Turnur in PathFinder.  
 
 ## Things you must own
 
@@ -53,7 +53,7 @@ Logi and other support ships are handout; don't buy personal copies.
 You **must** own a dps ship even if you usually fly support.
 
 ### Pods you must own
-* A Nightmare hardwirings pod (available in the cargo of the Nightmare in the `BIGAB.nightmares` channel)
+* Mid-grade Nirvana + hardwirings pod (available in the cargo of the Nightmare in the `BIGAB.nightmares` channel)
 * Mid-grade Amulet pod (w/ HG-1005). If you can afford a high-grade pod buy one, but be warned there is **no pod SRP**
 
 ## Things you should probably own
@@ -118,6 +118,6 @@ These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
 * Sabres: 100%
 
 ### Capitals
-* Dreads: 1.75b
-* FAX: 2b
-* Carriers: 1.5b
+* Dreads: 2b
+* FAX: 2.5b
+* Carriers: 1.75b
