@@ -29,7 +29,7 @@ Some common instances of these and other things that might be okay in other plac
 
 The EVE system "Turnur" recently experienced an event where the star in the system exploded. This event has caused the appearance of 6 static wormholes in the system. These wormholes consist of 3 nullsec wormholes, 2 lowsec wormholes, and 1 highsec. These provide access to different areas of space for roaming, whaling, or other fun activities.
 
-See the follow-up section for instructions on accessing our map of Turnur in PathFinder.  
+See the [follow-up](#using-pathfinder-for-wormhole-mapping-in-turnur) section for instructions on accessing our map of Turnur in PathFinder.  
 
 ## Things you must own
 
