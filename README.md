@@ -40,7 +40,9 @@ Some might already be on alliance contract in staging; if they are not, see [Jum
 Each doctrine has an in-game channel associated with that has the fits for DPS, Logi, and relevant support and is in parentheses after the doctrine name in the below list.
 
 ### Ships you must own
-* 10MN Tengu (`BIGAB.tengus`)
+* 10MN Jam Tengu (`BIGAB.tengus`)
+* 50MN Gank Tengu (`BIGAB.gankgus`)
+* Kikimora
 * 10MN Loki (`BIGAB.lokis`)
 * Nightmare (`BIGAB.nightmares`)
 * 10MN Legion (`BIGAB.heavyarmor`)
