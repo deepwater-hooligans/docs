@@ -50,7 +50,7 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 
 These are the line dps ships for our main doctrines.
 
-Logi and other support ships are handout; don't buy personal copies.
+Logi and other support ships are handout, but if you know you fly a role commonly you can purchase your own copies. They are SRP'd at 100%.
 
 You **must** own a dps ship even if you usually fly support.
 
@@ -67,9 +67,7 @@ You **must** own a dps ship even if you usually fly support.
 
 ## Our other doctrines
 
-These doctrines are handout-only, but you must be skilled into at least one ship for them.
-
-* Kikimoras (+ Scalpels, Keres, Hyena)
+N/A currently.
 
 ## Jump freight
 Our corporation `Sock Workers` accepts courier contracts.
@@ -77,9 +75,7 @@ Our corporation `Sock Workers` accepts courier contracts.
 Contracts are generally run at least once daily.
 
 The reward rate for these routes are as follows:
-* Jita <=====> Kamela: 450 ISK/m3
 * Jita <=====> Turnur: 250 ISK/m3
-* Turnur <===> Kamela: 100 ISK/m3
 
 7 days expiry, 7 days to complete.
 
