@@ -21,7 +21,7 @@ Some common instances of these and other things that might be okay in other plac
 
 ## Current staging
 
-`Turnur - Limes` - All subcaps **Deathclones Here**
+`Turnur - good morning team` - All subcaps **Deathclones Here**
 
 `Amamake - Hydra Provail` - Supercaps
 
@@ -45,7 +45,9 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 * Nightmare (`BIGAB.nightmares`)
 * 10MN Legion (`BIGAB.heavyarmor`)
 * Tempest Fleet Issue (`BIGAB.heavyarmor`)
+* Sleipnir 
 * Kikimora
+* T2 Torp + FVB Bomber 
 
 These are the line dps ships for our main doctrines.
 
@@ -96,9 +98,8 @@ Visit [PathFinder](https://pf.deepwaterhooligans.com/map) to view the wormhole m
 ## Special interest groups
 ### Open to anyone
 These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
-* **Black Ops** -- pings for blops drops.  Owning an armor buffer blops or other conduitable armor buffer utility ship is recommended.  Owning an active shield blops for solo/smaller gang is nice but not necessary.
 * **Warlords** -- structure bashing sig to make timers for fights.  Leshak or other heavy armor ship recommended.
-* **Pochven** -- krabbing and king of the hill PVP in Pochven.  An average night is 750M in payout and some frags.
+* **Roamers** -- self-explanatory. discussion about roaming and pings for roaming
 ### Talk to leadership
 * **Capitals** -- capital fits and pings.  JDC5 and cap ownership required.
 * **Supers** -- all supers (hyper and tank) go in this channel, discuss with Tim to get access
@@ -111,6 +112,7 @@ These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
 
 ### Subcaps
 * DPS: 50% on all hulls
+* Support (Logi, Recons, HICs, etc): 100%
 * Cyno Recons: 100%
 * Sabres: 100%
 
