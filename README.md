@@ -45,7 +45,7 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 * Nightmare (`BIGAB.nightmares`)
 * 10MN Legion (`BIGAB.heavyarmor`)
 * Tempest Fleet Issue (`BIGAB.heavyarmor`)
-* Sleipnir 
+* Sleipnir (`BIGAB.sleips`)
 * Kikimora
 * T2 Torp + FVB Bomber 
 
