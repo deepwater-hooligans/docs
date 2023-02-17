@@ -43,7 +43,6 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 * 10MN Jam Tengu (`BIGAB.tengus`)
 * 50MN Gank Tengu (`BIGAB.gankgus`)
 * Kikimora
-* 10MN Loki (`BIGAB.lokis`)
 * Nightmare (`BIGAB.nightmares`)
 * 10MN Legion (`BIGAB.heavyarmor`)
 * Tempest Fleet Issue (`BIGAB.heavyarmor`)
