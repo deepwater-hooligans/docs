@@ -42,19 +42,19 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 ### Ships you must own
 * 10MN Jam Tengu (`BIGAB.tengus`)
 * 50MN Gank Tengu (`BIGAB.gankgus`)
-* Kikimora
 * Nightmare (`BIGAB.nightmares`)
 * 10MN Legion (`BIGAB.heavyarmor`)
 * Tempest Fleet Issue (`BIGAB.heavyarmor`)
+* Kikimora
 
 These are the line dps ships for our main doctrines.
 
-Logi and other support ships are handout, but if you know you fly a role commonly you can purchase your own copies. They are SRP'd at 100%.
+Logi and other support ships have handouts available, but if you know you fly a role commonly you can purchase your own copies. They are SRP'd at 100%.
 
 You **must** own a dps ship even if you usually fly support.
 
 ### Pods you must own
-* Mid-grade Nirvana + hardwirings pod (available in the cargo of the Nightmare in the `BIGAB.nightmares` channel)
+* Mid-grade Nirvana + hardwirings (available in the cargo of the Nightmare in the `BIGAB.nightmares` channel)
 * Mid-grade Amulet pod (w/ HG-1005). If you can afford a high-grade pod buy one, but be warned there is **no pod SRP**
 
 ## Things you should probably own
