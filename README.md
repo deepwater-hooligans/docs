@@ -46,8 +46,8 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 * 10MN Legion (`BIGAB.heavyarmor`)
 * Tempest Fleet Issue (`BIGAB.heavyarmor`)
 * Sleipnir (`BIGAB.sleips`)
-* Kikimora
-* T2 Torp + FVB Bomber 
+* Kikimora (`BIGAB.Kikimoras`)
+* T2 Torp + FVB Bomber (see alliance contracts)
 
 These are the line dps ships for our main doctrines.
 
