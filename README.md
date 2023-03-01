@@ -76,7 +76,7 @@ Our corporation `Sock Workers` accepts courier contracts.
 Contracts are generally run at least once daily.
 
 The reward rate for these routes are as follows:
-* Jita <=====> Turnur: 250 ISK/m3
+* Jita <=====> Turnur: 250 ISK/m3 (5 miliion ISK minimum)
 
 7 days expiry, 7 days to complete.
 
