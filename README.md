@@ -21,7 +21,7 @@ Some common instances of these and other things that might be okay in other plac
 
 ## Current staging
 
-`Turnur - good morning team` - All subcaps **Deathclones Here**
+`Turnur - A-M-R leadership HQ` - All subcaps **Deathclones Here**
 
 `Amamake - Hydra Provail` - Supercaps
 
