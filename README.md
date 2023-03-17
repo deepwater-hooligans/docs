@@ -19,6 +19,8 @@ Some common instances of these and other things that might be okay in other plac
 * Use of "REEEEE" / "autistic screeching" to express frustration (^see above)
 * Xenophobia (see: sinophobia)
 
+Lastly, don't be a dick. There should not need to be any examples cited for this. If you have to question whether your actions are unbecoming, they probably are. Be nice to your corp mates and alliance members, don't spam egregiously in local, don't leak anything said in any channel in BIGAB discord for any reason. This rule is interpreted by real people, not a machine, so toeing of the line will not be allowed and if you are found to violate this rule excessively, you will be removed.
+
 ## Current staging
 
 `Turnur - A-M-R leadership HQ` - All subcaps **Deathclones Here**
