@@ -116,6 +116,7 @@ These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
 * Sabres: 100%
 
 ### Capitals
-* Dreads: 2b
+* T1 Dreads: 2.5b
+* Faction Dreads: 3.5b
 * FAX: 2.5b
 * Carriers: 1.75b
