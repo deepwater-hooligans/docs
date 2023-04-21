@@ -85,7 +85,7 @@ The reward rate for these routes are as follows:
 **Zero collateral** is strongly preferred.  Sock Workers operations are 100% insured with the full faith and backing of Deepwater Hooligans.
 
 Collateral, like guacamole, is extra.
-🥑 If you feel the need to use collateral, add 2.5% to the above rate -- and be prepared to wait longer, as JF pilots may give priority to uncollateralized contracts.
+🥑 If you feel the need to use collateral, add 2.5% of your collateral to the above rate -- and be prepared to wait longer, as JF pilots may give priority to uncollateralized contracts.
 
 ## Using PathFinder for Wormhole Mapping in Turnur
 
