@@ -78,7 +78,7 @@ Our corporation `Sock Workers` accepts courier contracts.
 Contracts are generally run at least once daily.
 
 The reward rate for these routes are as follows:
-* Jita <=====> Turnur: 250 ISK/m3 (5 miliion ISK minimum) 1OOk max per package
+* Jita <=====> Turnur: 250 ISK/m3 (5 miliion ISK minimum) 100k m3 max per package
 
 7 days expiry, 7 days to complete.
 
@@ -102,21 +102,31 @@ Visit [PathFinder](https://pf.deepwaterhooligans.com/map) to view the wormhole m
 These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
 * **Warlords** -- structure bashing sig to make timers for fights.  Leshak or other heavy armor ship recommended.
 * **Roamers** -- self-explanatory. discussion about roaming and pings for roaming
+* **Pochven** -- PvEvP sig. Vargur and implants required. Expect fights and around 500m-1b isk per night.
+* **Marketeers** - Like to seed the market or contracts? This is the place to collaborate and discuss.
+* **Industry** - Want to use our indy park? This is where you go for advice and collaboration.
+
 ### Talk to leadership
 * **Capitals** -- capital fits and pings.  JDC5 and cap ownership required.
 * **Supers** -- all supers (hyper and tank) go in this channel, discuss with Tim to get access
 * **Armor Supers** -- armor supers and titans.  Dedicated fax alt + armor buffer fax ownership required.  Discuss w/ Tim for access
+* **Popkrab** -- Krab beacon running/save group. You will only be saved if you are in this group. CEO vouch and Tim approval required.
+
+### Not Eve-related
+* **Photography** -- for discussion of photography and sharing pictures
+* **DIY** -- for discussion of DIY/home-improvement projects
+* **Fitness** -- like DIY, but for your body!
 
 ## SRP
 
 ### Subcaps
-* DPS: 50% on all hulls
-* Support (Logi, Recons, HICs, etc): 100%
+* DPS: 50% on all hulls (max 750M)
+* Support (Logi, Recons, HICs, etc): 100% (up to 1bn)
 * Cyno Recons: 100%
 * Sabres: 100%
 
 ### Capitals
-* T1 Dreads: 2.5b
-* Faction Dreads: 3.5b
-* FAX: 2.5b
-* Carriers: 1.75b
+* T1 Dreads: 2.75b
+* Faction Dreads: 3.75b
+* FAX: 2.75b
+* Carriers: 2b
