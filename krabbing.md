@@ -9,6 +9,7 @@ This guide will outline several PVE activities you can partake in to get your ec
 * ISK investment needed: 300m-3b
 * Time investment: as much as you want, each filament takes 15-20 minutes
 * Expected profit: 100m/hr (lazy fit) - 350m/hr (high effort fit)
+* Where to find more info: Minimax Zed, TehExecutor, Krimson Serenity
 
 ### DED Sites
 * Characters needed: 1+, but better with 2 or more (scanner and DED runner)
@@ -16,6 +17,7 @@ This guide will outline several PVE activities you can partake in to get your ec
 * ISK investment needed: 500m+
 * Time investment: as often as you want, but complexes can take between 20-40 minutes
 * Expected profit: hard to estimate but there is always guaranteed ISK in the form of OPE, and drops wildly vary between a few mil to a few bil. 
+* Where to find more info: Minimax Zed, Ali Aras
 
 ### CRAB Beacons (Popkrab)
 * Characters needed: 3-4
@@ -23,6 +25,7 @@ This guide will outline several PVE activities you can partake in to get your ec
 * ISK investment needed: 6b+
 * Time investment: As often as you want, each beacon can be run for an hour and each cap-capable character can link to three beacons a day
 * Expected profit: Depends on DBS but raw bounties are around 500-750m/hr, "blue" loot pays for beacons
+* Where to find more info: Popkrab group on SeAT
 
 ## Industry
 ### Reactions
@@ -31,6 +34,7 @@ This guide will outline several PVE activities you can partake in to get your ec
 * ISK investment: As little as 1.5-2b per week but can scale up to 10-15b per week
 * Time investment: A few clicks every few days and market order babysitting, spreadsheet math
 * Expected profit: 10-15% of your weekly investment if you are smart and invest in safe reactions
+* Where to find more info: Industry sig on SeAT
 
 ### T2/Pirate/Navy Industry
 * Characters needed: Technically doable with 1 character but best done with 40+ reaction slots/40+ manufacturing slots/10+ science slots (4+ skilled characters)
@@ -38,3 +42,4 @@ This guide will outline several PVE activities you can partake in to get your ec
 * ISK investment: As little as 1.5-2b per week but can scale up to 10-15b per week
 * Time investment: A few clicks every few days and market order babysitting, spreadsheet math
 * Expected profit: 15-20% of your weekly investment if you can buy inputs for low and find someone to buy your outputs off the market
+* Where to find more info: Industry sig on SeAT
