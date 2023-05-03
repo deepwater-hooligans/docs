@@ -33,6 +33,16 @@ This guide will outline several PVE activities you can partake in to get your ec
 * Notable risks: becoming content
 * Where to find more info: Popkrab group on SeAT
 
+### Exploration (Data/Relic Sites)
+* Characters needed: 1
+* Ship/Items Needed: CovOps Frigate strongly preferred, Buzzard is best
+* ISK Investment Needed: 60m
+* Limiting factors: Luck, improve your odds with a cargo scanner!
+* Time investment: 20+ minutes (depends how fast you can scan down a system)
+* Expected profit: 50m/hr+ depending on how picky you are with cans
+* Notable risks: Pretty much everything is lethal to CovOps Frigates
+* Where to find more info: EdgiestLime
+
 ## Industry
 ### Reactions
 * Characters needed: Technically doable with 1 character but best done with 40+ reaction slots (4+ skilled characters)
