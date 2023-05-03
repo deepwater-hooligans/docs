@@ -33,6 +33,14 @@ The EVE system "Turnur" recently experienced an event where the star in the syst
 
 See the [follow-up](#using-pathfinder-for-wormhole-mapping-in-turnur) section for instructions on accessing our map of Turnur in PathFinder.  
 
+### Turnur Locals
+
+We cooperate on a limited basis with other groups residing in Turnur to make the day-to-day experience a little less slippery. This means the following. 
+* Join the in-game channel `Turnur Locals` on your first day in alliance.
+* While **in Turnur** avoid aggression against other members of Turnur Locals. This means on wormholes (in or out of Turnur), stargates, stations, etc. The rules of Turnur locals apply to these areas only. Outside of Turnur or a wormhole leading to/from Turnur, anyone from the channel is free to shoot.
+
+This arrangement is not without its faults and mistakes happen sometimes. If you have questions or concerns please bring them up to a member of leadership!
+
 ## Things you must own
 
 You **must** own at least one of each of of the below.
