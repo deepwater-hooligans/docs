@@ -17,6 +17,13 @@ This guide will outline several PVE activities you can partake in to get your ec
 * Time investment: as often as you want, but complexes can take between 20-40 minutes
 * Expected profit: hard to estimate but there is always guaranteed ISK in the form of OPE, and drops wildly vary between a few mil to a few bil. 
 
+### CRAB Beacons (Popkrab)
+* Characters needed: 3-4
+* Ship/Items Needed: HAW Dread or 2 Vargurs to run the site, response blops/fax
+* ISK investment needed: 6b+
+* Time investment: As often as you want, each beacon can be run for an hour and each cap-capable character can link to three beacons a day
+* Expected profit: Depends on DBS but raw bounties are around 500-750m/hr, "blue" loot pays for beacons
+
 ## Industry
 ### Reactions
 * Characters needed: Technically doable with 1 character but best done with 40+ reaction slots (4+ skilled characters)
