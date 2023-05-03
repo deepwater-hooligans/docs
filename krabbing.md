@@ -7,24 +7,30 @@ This guide will outline several PVE activities you can partake in to get your ec
 * Characters needed: 1+
 * Ship/Items Needed: Gila or better
 * ISK investment needed: 300m-3b
-* Time investment: as much as you want, each filament takes 15-20 minutes
+* Limiting factors: none, run as much as you want
+* Time investment: each filament takes 15-20 minutes
 * Expected profit: 100m/hr (lazy fit) - 350m/hr (high effort fit)
+* Notable risks: if you don't exit the abyss before the timer is up, you die (only abyss on good internet connection)
 * Where to find more info: Minimax Zed, TehExecutor, Krimson Serenity
 
 ### DED Sites
 * Characters needed: 1+, but better with 2 or more (scanner and DED runner)
 * Ship/Items needed: Active Tank T3C or better
 * ISK investment needed: 500m+
-* Time investment: as often as you want, but complexes can take between 20-40 minutes
-* Expected profit: hard to estimate but there is always guaranteed ISK in the form of OPE, and drops wildly vary between a few mil to a few bil. 
+* Limiting factor: finding sites requires a fair bit of scanning + luck
+* Time investment: after scanning (10m-1hr?), complexes usually take between 20-40 minutes
+* Expected profit: hard to estimate but there is always guaranteed ISK in the form of OPE, and other loot drops wildly vary between a few mil to a few bil. 
+* Notable risks: not really, if you are proper fit and aware of the few PVP dangers
 * Where to find more info: Minimax Zed, Ali Aras
 
 ### CRAB Beacons (Popkrab)
 * Characters needed: 3-4
 * Ship/Items Needed: HAW Dread or 2 Vargurs to run the site, response blops/fax
 * ISK investment needed: 6b+
-* Time investment: As often as you want, each beacon can be run for an hour and each cap-capable character can link to three beacons a day
+* Limiting factors: maximum 3 beacons / day / capital-capable character
+* Time investment: Maximum one hour per beacon
 * Expected profit: Depends on DBS but raw bounties are around 500-750m/hr, "blue" loot pays for beacons
+* Notable risks: becoming content
 * Where to find more info: Popkrab group on SeAT
 
 ## Industry
@@ -34,6 +40,7 @@ This guide will outline several PVE activities you can partake in to get your ec
 * ISK investment: As little as 1.5-2b per week but can scale up to 10-15b per week
 * Time investment: A few clicks every few days and market order babysitting, spreadsheet math
 * Expected profit: 10-15% of your weekly investment if you are smart and invest in safe reactions
+* Notable risks: if it looks too good to be true, it probably is
 * Where to find more info: Industry sig on SeAT
 
 ### T2/Pirate/Navy Industry
@@ -41,5 +48,6 @@ This guide will outline several PVE activities you can partake in to get your ec
 * Ship/Items Needed: Moongoo, fuel blocks, ore, T2/pirate/Navy BPCs
 * ISK investment: As little as 1.5-2b per week but can scale up to 10-15b per week
 * Time investment: A few clicks every few days and market order babysitting, spreadsheet math
-* Expected profit: 15-20% of your weekly investment if you can buy inputs for low and find someone to buy your outputs off the market
+* Expected profit: 10-15% of your weekly investment; higher if you can buy inputs for cheap and sell directly to a buyer
+* Notable risks: if it looks too good to be true, it probably is
 * Where to find more info: Industry sig on SeAT
