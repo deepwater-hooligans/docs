@@ -10,7 +10,7 @@ If you follow this guide, not only will you feed less, but if you do the fancy p
 ## Doctrine fits
 **In-game channel:** `BIGAB.blops`  
 **All blops should have at minimum a Mid-Grade Amulet set with supporting hardwirings.**  
-**It is a good idea to keep a Conduit module in your hangar in case it is needed.**
+**All non-Redeemer blops need to have a conduit module fitted.**
 
 Note on niche fits:
 * Niche fits are allowed for certain tasks, such as Tach Deemers, Scramthers, etc.  
