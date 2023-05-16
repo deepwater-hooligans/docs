@@ -6,14 +6,16 @@ The guide is meant to acclaimate our newer members on the differences between yo
 
 If you follow this guide, not only will you feed less, but if you do the fancy pink people will be happy to SRP you!
 
+**For the purpose of this guide, "DPS Blops" are Redeemers. "Utility Blops" are Panthers, Sins, and Widows. Neut Deemers are a special case ship.**  
 
 ## Doctrine fits
 **In-game channel:** `BIGAB.blops`  
 **All blops should have at minimum a Mid-Grade Amulet set with supporting hardwirings.**  
+**Redeemers and Widows require additional Abyssals/Implants as noted in the doctrine's channel.**  
 **All non-Redeemer blops need to have a conduit module fitted.**
 
 Note on niche fits:
-* Niche fits are allowed for certain tasks, such as Tach Deemers, Scramthers, etc.  
+* Niche fits are allowed for certain tasks, such as Tach Deemers, Neut Deemers, etc.
 * If you have a niche fit, please clear it with a FC before fitting it up and dropping it, so the FCs know what they have.  
 * Please kindly do this in advance rather than as the fleet is forming to minimalize the questions in formup.
 
@@ -21,12 +23,12 @@ Note on niche fits:
 **FCs rely on knowing what they have available to them, and if you cannot stay on grid then FCs are at a disadvantage. Please only bring what you are willing to fight in.**
 
 Please note, T3Cs are useful for characters that do not have Black Ops Battleship skills, or are uncomfortable with the ISK needed.  
-If you need a fit for a character, feel free to ask a FC or check the #Theorycrafting channel for some recommendations.
+If you need a fit for a character, feel free to ask a FC or check the #Theorycrafting channel for some recommendations.  
 
-**If your alts cannot fly T3Cs, bringing them in cynos should be your go-to. The fleet will always need more cynos, no matter what.**
+**If your alts cannot fly T3Cs, bringing them in cynos should be your go-to. The fleet will always need more cynos, no matter what.**  
 
 ## Lowsec Drops
-**For all lowsec drops, remove your cloak from your ship and fit a Cynosural Field Generator I.**  
+**All Utility Blops should have a Cyno and Conduit fit. Keep Cloak in cargo.**  
 **Remove enough fuel from your cargo to add 3 lights of your cyno (this will vary based on skills)**
 
 * Usually supported by at least one active tanked armor FAX. **Please remember this when you are dropping.**
