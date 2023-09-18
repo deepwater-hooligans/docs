@@ -23,7 +23,7 @@ Lastly, don't be a dick. There should not need to be any examples cited for this
 
 ## Current staging
 
-`Turnur - A-M-R leadership HQ` - All subcaps **Deathclones Here**
+`Turnur - Fronk's Castle` - All subcaps and capitals **Deathclones Here**
 
 `Amamake - Hydra Provail` - Supercaps
 
@@ -44,7 +44,7 @@ This arrangement is not without its faults and mistakes happen sometimes. If you
 
 ## Things you must own
 
-You **must** own at least one of each of of the below.
+You **must** own at least one of each of the below.
 
 Some might already be on alliance contract in staging; if they are not, see [Jump freight](#jump-freight) for how to get them shipped in.
 
@@ -88,8 +88,6 @@ Contracts are generally run at least once daily.
 
 The reward rate for these routes are as follows:
 * Jita <==> Turnur: 250 ISK/m3 (5 miliion ISK minimum) 100k m3 max per package
-* Turnur <==>deployment 1250 ISK/m3
-* Jita <==>deployment 1500 ISK/m3
 
 7 days expiry, 7 days to complete.
 
@@ -111,17 +109,17 @@ Visit [PathFinder](https://pf.deepwaterhooligans.com/map) to view the wormhole m
 ## Special interest groups
 ### Open to anyone
 These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
-* **Warlords** -- structure bashing sig to make timers for fights.  Leshak or other heavy armor ship recommended.
+* **Warlords** -- Bashing sig to make timers for fights.  Leshak or other heavy armor ship required.
 * **Roamers** -- self-explanatory. discussion about roaming and pings for roaming
-* **Pochven** -- PvEvP sig. Vargur and implants required. Expect fights and around 500m-1b isk per night.
+* **Pochven** -- PvEvP sig. Expect fights and around 500m-1b isk per night.
 * **Marketeers** - Like to seed the market or contracts? This is the place to collaborate and discuss.
 * **Industry** - Want to use our indy park? This is where you go for advice and collaboration.
+* **Moon Miners** - Like chewing on rocks? This would be the place to find like minded folks.
 
 ### Talk to leadership
 * **Capitals** -- capital fits and pings.  JDC5 and cap ownership required.
 * **Supers** -- all supers (hyper and tank) go in this channel, discuss with Tim to get access
 * **Armor Supers** -- armor supers and titans.  Dedicated fax alt + armor buffer fax ownership required.  Discuss w/ Tim for access
-* **Popkrab** -- Krab beacon running/save group. You will only be saved if you are in this group. CEO vouch and Tim approval required.
 
 ### Not Eve-related
 * **Photography** -- for discussion of photography and sharing pictures
