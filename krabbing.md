@@ -23,16 +23,6 @@ This guide will outline several PVE activities you can partake in to get your ec
 * Notable risks: not really, if you are proper fit and aware of the few PVP dangers
 * Where to find more info: Minimax Zed, Ali Aras
 
-### CRAB Beacons (Popkrab)
-* Characters needed: 3-4
-* Ship/Items Needed: HAW Dread or 2 Vargurs to run the site, response blops/fax
-* ISK investment needed: 6b+
-* Limiting factors: maximum 3 beacons / day / capital-capable character
-* Time investment: Maximum one hour per beacon
-* Expected profit: Depends on DBS but raw bounties are around 500-750m/hr, "blue" loot pays for beacons
-* Notable risks: becoming content
-* Where to find more info: Popkrab group on SeAT
-
 ### Exploration (Data/Relic Sites)
 * Characters needed: 1
 * Ship/Items Needed: CovOps Frigate strongly preferred, Buzzard is best
