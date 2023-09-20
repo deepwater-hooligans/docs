@@ -61,3 +61,12 @@ This guide will outline several PVE activities you can partake in to get your ec
 * Expected profit: 10-15% of your weekly investment; higher if you can buy inputs for cheap and sell directly to a buyer
 * Notable risks: if it looks too good to be true, it probably is
 * Where to find more info: Industry sig on SeAT
+
+### T3 Destroyers Industry
+* Characters needed: Technically doable with 1 character but best done with 40+ reaction slots/40+ manufacturing slots/10+ science slots (4+ skilled characters)
+* Ship/Items Needed: gas, fuel blocks, ore, ancient relics (yellow) - act as BPCs
+* ISK investment: As little as 1.5b per month but can scale up to 20b per month
+* Time investment: A few clicks every few days and market order babysitting, spreadsheet math
+* Expected profit: 20-80% of your monthly investment; higher if you can buy inputs for cheap and sell directly to a buyer
+* Notable risks: if it looks too good to be true, it probably is. Prices for outputs are fairly steady but occasionally inputs will spike, so pay attention when buying or use buy orders 
+* Where to find more info: Kelleris or Industry sig on SeAT
