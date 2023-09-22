@@ -58,7 +58,7 @@ Some might already be on alliance contract in staging; if they are not, see [Jum
 
 Each doctrine has an in-game channel associated with that has the fits for DPS, Logi, and relevant support and is in parentheses after the doctrine name in the below list.
 
-### Ships you must own
+### Subcapital ships you must own
 * 10MN Jam Tengu (`BIGAB.tengus`)
 * 50MN Gank Tengu (`BIGAB.gankgus`)
 * Nightmare (`BIGAB.nightmares`)
@@ -68,11 +68,24 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 * Kikimora (`BIGAB.Kikimoras`)
 * T2 Torp + FVB Bomber (see alliance contracts)
 
-These are the line dps ships for our main doctrines.
+These are the line DPS ships for our main doctrines.
 
 Logi and other support ships have handouts available, but if you know you fly a role commonly you can purchase your own copies. They are SRP'd at 100%.
 
-You **must** own a dps ship even if you usually fly support.
+You **must** own a DPS ship even if you usually fly support.
+
+### Capital ships you must own
+* Buffer anti-cap faction dreadnought on an alt 
+
+It's important to have a capital character to be an effective member of the alliance! We are a group that relies heavily on multiboxing multiple accounts and having a cap alt is apart of that. Reach out to leadership if you need guidance or help to get a dread alt.
+
+Please read all pins in the capitals group on Discord to bring yourself up to speed on doctrine fits, required implants, and training priorities.
+
+#### Capital ships you should probably work towards
+* Buffer or active fax on an alt
+* Home defence armour carrier (Archon or Thanatos)
+
+If you have a character that can fly a carrier, you are required to own a home defence armour carrier. It's usually best to train this on your main; you only need to train racial carrier IV and T1 fighters to be effective.
 
 ### Pods you must own
 * Mid-grade Nirvana + hardwirings (available in the cargo of the Nightmare in the `BIGAB.nightmares` channel)
