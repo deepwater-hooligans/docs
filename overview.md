@@ -65,18 +65,20 @@ Each doctrine has an in-game channel associated with that has the fits for DPS, 
 * 10MN Legion (`BIGAB.heavyarmor`)
 * Tempest Fleet Issue (`BIGAB.heavyarmor`)
 * Cyclone Fleet Issue (`BIGAB.cfis`)
-* Kikimora (`BIGAB.Kikimoras`)
+* Barghest (`BIGAB.Barghests`)
+* Jackdaw (`BIGAB.Rexdaw`) 
 * T2 Torp + FVB Bomber (see alliance contracts)
 
 These are the line dps ships for our main doctrines.
 
-Logi and other support ships have handouts available, but if you know you fly a role commonly you can purchase your own copies. They are SRP'd at 100%.
+Support ships (other than logi) have handouts available, but if you know you fly a role commonly you can purchase your own copies. They are SRP'd at 100%.
 
 You **must** own a dps ship even if you usually fly support.
 
 ### Pods you must own
-* Mid-grade Nirvana + hardwirings (available in the cargo of the Nightmare in the `BIGAB.nightmares` channel)
-* Mid-grade Amulet pod (w/ HG-1005). If you can afford a high-grade pod buy one, but be warned there is **no pod SRP**
+* Mid-grade Nirvana + hardwirings (for use in both Nightmare and Barghest).
+* Mid-grade Amulet pod (w/ HG-1005). 
+* If you can afford a high-grade pod buy one, but be warned there is **no pod SRP**
 
 ## Things you should probably own
 
