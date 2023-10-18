@@ -9,10 +9,14 @@ If you follow this guide, not only will you feed less, but if you do the fancy p
 **For the purpose of this guide, "DPS Blops" are Redeemers. "Utility Blops" are Panthers, Sins, and Widows. Neut Deemers are a special case ship.**  
 
 ## Doctrine fits
-**In-game channel:** `BIGAB.blops`  
-**All blops should have at minimum a Mid-Grade Amulet set with supporting hardwirings.**  
-**Redeemers and Widows require additional Abyssals/Implants as noted in the doctrine's channel.**  
-**All non-Redeemer blops need to have a conduit module fitted.**
+**All doctrine fits are maintained on SeaT.**
+
+**Additionally, doctrine DPS Redeemer and Widow will need the following:**
+* DPS Redeemer will require a Gravid-rolled MWD for powergrid requirements.
+* Widow will require High-Grade Amulets its plates to be rolled to 6250+ HP, and it is strongly encouraged to fit upgraded EANMs.
+
+**All blops except for the Widow should have at minimum a Mid-Grade Amulet set with supporting hardwirings.**  
+**All non-Redeemer blops need to have a conduit module fitted, and the ability to use it.**
 
 Note on niche fits:
 * Niche fits are allowed for certain tasks, such as Tach Deemers, Neut Deemers, etc.
