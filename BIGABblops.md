@@ -10,6 +10,7 @@ If you follow this guide, not only will you feed less, but if you do the fancy p
 
 ## Doctrine fits
 **All doctrine fits are maintained on SeaT.**
+
 **Additionally, doctrine DPS Redeemer and Widow will need the following:**
 * DPS Redeemer will require a Gravid-rolled MWD for powergrid requirements.
 * Widow will require High-Grade Amulets its plates to be rolled to 6250+ HP, and it is strongly encouraged to fit upgraded EANMs.
