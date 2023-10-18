@@ -56,13 +56,13 @@ You **must** own at least one of each of the below.
 
 Some might already be on alliance contract in staging; if they are not, see [Jump freight](#jump-freight) for how to get them shipped in.
 
-Each doctrine is updated via SeaT, which has fits for all DPS, Logi, and relevant support and is in parentheses after the doctrine name in the below list.
+Each doctrine is updated via the SeAT doctrines module, which has fits for all DPS, Logi, and relevant support.
 
 ### Ships you must own
-* 10MN Jam Tengu
-* 50MN Gank Tengu
+* 10MN Jam Tengu ("Jamgus")
+* 50MN Gank Tengu ("Gankgus")
 * Nightmare
-* 10MN Legion
+* Legion
 * Tempest Fleet Issue
 * Cyclone Fleet Issue
 * Barghest
@@ -73,7 +73,7 @@ These are the line dps ships for our main doctrines.
 
 Support ships (other than logi) have handouts available, but if you know you fly a role commonly you can purchase your own copies. They are SRP'd at 100%.
 
-You **must** own a dps ship even if you usually fly support.
+You **must** own a DPS ship even if you usually fly support.
 
 ### Pods you must own
 * Mid-grade Nirvana + SM-705 and EM-805 hardwirings (for use in both Nightmare and Barghest).
