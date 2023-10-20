@@ -116,6 +116,75 @@ See [#pings](https://discord.com/channels/758877276472999936/759154715174502460/
 
 Visit [PathFinder](https://pf.deepwaterhooligans.com/map) to view the wormhole map. Login with your BIGAB scanning character via ESI. Only in-alliance characters are currently allowed to access the map. 
 
+### Guide to Using Pathfinder
+
+Welcome to our guide on utilizing the EVE Online Pathfinder tool to map wormhole connections from our staging k-space system. This tool is indispensable for navigating the intricate wormhole networks and ensuring the safety and efficiency of our operations. Please follow the guidelines outlined below to correctly use the Pathfinder tool and contribute to our collective exploration efforts.
+
+### Adding and Removing Systems
+
+- **Automatic System Addition:** 
+  - Jump into the new system while logged into Pathfinder.
+  - Ensure Pathfinder is running in the background to automatically add and connect the system.
+  - Manually rename and reposition the wormhole system on the map for clarity, adhering to our naming convention.
+
+- **Manual System/Connection Addition:**
+  - Drag a connection from one system to another to manually create a connection.
+  - Right-click a connection or system and select the delete option to remove it.
+
+- **System Arrangement:**
+  - Arrange scanned systems thoughtfully on the map to easily discern connections.
+
+### Bookmarking Scheme
+
+Our bookmarking scheme is crucial for maintaining an organized map and ensuring that all members can easily navigate through wormhole space. Follow the guidelines below:
+
+- **K-Space Bookmarking:**
+  - Format: `[first 3 of sig ID] - [wh type] - [desto]`
+  - Example: `IWK - ls - Reitsato`, `LLS - hs - Perimeter`
+
+- **Wormhole Bookmarking:**
+  - Format: `[first 3 of sig ID] - [wh type] - [a/b/c]`
+  - Example: `XKD - c4a` (first c4 scanned in system), `MWM - c3b` (second c3 scanned in system)
+
+- **Frigate Holes Bookmarking:**
+  - Use an "=" in place of "-"
+  - Example: `DLK = c3a`
+
+- **Pathfinder System Tile:**
+  - When updating Pathfinder, add the first 3 characters of the signature ID to the system tile on the map view.
+  - Example: `Keikaken [DFK]`
+
+- **Return Bookmarks:**
+  - Label with an asterisk (*), and "home"
+  - Example: `*home`
+
+### Signatures and Anomalies
+
+- **Adding Signatures:**
+  1. Use `CTRL+A` then `CTRL+C` in the probe scanner window to copy all system signatures.
+  2. Select the current wormhole on Pathfinder.
+  3. Paste copied signatures in the 'Signatures' box located below the map, then hit enter.
+
+- **Signature Management:**
+  - Enable the lazy 'delete' option to automatically remove non-existent signatures from the current system list.
+
+- **Important Notes:**
+  - Only track signatures, not anomalies—apply a filter on your probe window.
+  - Indicate which wormhole signature corresponds to which wormhole in the 'Leads To' field.
+  - Paste new signatures without worry; existing scanned signatures won't be overwritten unless the lazy 'delete' option is enabled.
+  - Remove outdated signatures and bookmarks when they expire or upon clearing the related site.
+
+### Scanning and Exploring
+
+1. **Bookmarking:**
+   - Bookmark the entrance wormhole.
+   - Upon entering a new system, bookmark the exit wormhole.
+
+2. **Scanning:**
+   - Begin scanning, updating signatures in Pathfinder as you progress.
+
+Thank you for taking the time to familiarize yourself with the Pathfinder tool. Adhering to these guidelines will significantly contribute to our mapping efforts. Your diligence and commitment to accurate mapping are highly appreciated.
+
 ## Special interest groups
 ### Open to anyone
 These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
