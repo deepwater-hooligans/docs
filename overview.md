@@ -108,7 +108,7 @@ Collateral, like guacamole, is extra.
 
 ## Using PathFinder for Wormhole Mapping in Turnur
 
-PathFinder provides a map of wormhole systems represented as a graph of vertices and edges. Each vertex represents a wormhole system, and each edge represents the wormhole connection between systems. This allows you to easily visualize the network of wormholes and navigate through them.
+PathFinder provides a map of wormhole systems represented as a graph of vertices and edges. Each vertex represents a system, and each edge represents the wormhole connection between systems. This allows you to easily visualize the network of wormholes and navigate through them.
 
 For new members, it is important to follow the naming conventions for wormholes as mentioned in the #pings discord channel. This will ensure the wormholes are correctly identified in your alliance bookmark folder.
 
@@ -118,7 +118,7 @@ Visit [PathFinder](https://pf.deepwaterhooligans.com/map) to view the wormhole m
 
 ### Guide to Using Pathfinder
 
-Welcome to our guide on utilizing the EVE Online Pathfinder tool to map wormhole connections from our staging k-space system. This tool is indispensable for navigating the intricate wormhole networks and ensuring the safety and efficiency of our operations. Please follow the guidelines outlined below to correctly use the Pathfinder tool and contribute to our collective exploration efforts.
+Welcome to our guide on utilizing the EVE Online Pathfinder tool to map wormhole connections from Turnur. This tool is indispensable for navigating the intricate wormhole networks Turnur creates and ensuring the safety and efficiency of our operations. Please follow the guidelines outlined below to correctly use Pathfinder.
 
 ### Adding and Removing Systems
 
@@ -139,8 +139,8 @@ Welcome to our guide on utilizing the EVE Online Pathfinder tool to map wormhole
 Our bookmarking scheme is crucial for maintaining an organized map and ensuring that all members can easily navigate through wormhole space. Follow the guidelines below:
 
 - **K-Space Bookmarking:**
-  - Format: `[first 3 of sig ID] - [wh type] - [desto]`
-  - Example: `IWK - ls - Reitsato`, `LLS - hs - Perimeter`
+  - Format: `[first 3 of sig ID] - [wh type] -> [desto] (desto region)`
+  - Example: `IWK - ls -> Reitsato (Black Rise)`, `LLS - hs -> Perimeter (The Forge)`
 
 - **Wormhole Bookmarking:**
   - Format: `[first 3 of sig ID] - [wh type] - [a/b/c]`
@@ -149,10 +149,6 @@ Our bookmarking scheme is crucial for maintaining an organized map and ensuring 
 - **Frigate Holes Bookmarking:**
   - Use an "=" in place of "-"
   - Example: `DLK = c3a`
-
-- **Pathfinder System Tile:**
-  - When updating Pathfinder, add the first 3 characters of the signature ID to the system tile on the map view.
-  - Example: `Keikaken [DFK]`
 
 - **Return Bookmarks:**
   - Label with an asterisk (*), and "home"
@@ -173,17 +169,6 @@ Our bookmarking scheme is crucial for maintaining an organized map and ensuring 
   - Indicate which wormhole signature corresponds to which wormhole in the 'Leads To' field.
   - Paste new signatures without worry; existing scanned signatures won't be overwritten unless the lazy 'delete' option is enabled.
   - Remove outdated signatures and bookmarks when they expire or upon clearing the related site.
-
-### Scanning and Exploring
-
-1. **Bookmarking:**
-   - Bookmark the entrance wormhole.
-   - Upon entering a new system, bookmark the exit wormhole.
-
-2. **Scanning:**
-   - Begin scanning, updating signatures in Pathfinder as you progress.
-
-Thank you for taking the time to familiarize yourself with the Pathfinder tool. Adhering to these guidelines will significantly contribute to our mapping efforts. Your diligence and commitment to accurate mapping are highly appreciated.
 
 ## Special interest groups
 ### Open to anyone
