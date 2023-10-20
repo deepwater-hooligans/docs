@@ -110,9 +110,9 @@ Collateral, like guacamole, is extra.
 
 PathFinder provides a map of wormhole systems represented as a graph of vertices and edges. Each vertex represents a system, and each edge represents the wormhole connection between systems. This allows you to easily visualize the network of wormholes and navigate through them.
 
-For new members, it is important to follow the naming conventions for wormholes as mentioned in the #pings discord channel. This will ensure the wormholes are correctly identified in your alliance bookmark folder.
+For new members, it is important to follow the naming conventions for wormholes as mentioned in the #information discord channel. This will ensure the wormholes are correctly identified in your alliance bookmark folder.
 
-See [#pings](https://discord.com/channels/758877276472999936/759154715174502460/1065821031945736202) for BIGAB's official naming convention for wormholes. Our wormhole bookmarks folder is available in the MOTD of our Alliance chat channel.
+See [#information](https://discord.com/channels/758877276472999936/759154771286032395/1163986572656509069) for BIGAB's official naming convention for wormholes. Our wormhole bookmarks folder is available in the MOTD of our Alliance chat channel.
 
 Visit [PathFinder](https://pf.deepwaterhooligans.com/map) to view the wormhole map. Login with your BIGAB scanning character via ESI. Only in-alliance characters are currently allowed to access the map. 
 
