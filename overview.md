@@ -62,7 +62,7 @@ Each doctrine is updated via the SeAT doctrines module, which has fits for all D
 * 10MN Jam Tengu ("Jamgus")
 * 50MN Gank Tengu ("Gankgus")
 * Nightmare
-* Legion
+* Legion/Proteus
 * Tempest Fleet Issue
 * Cyclone Fleet Issue
 * Barghest
