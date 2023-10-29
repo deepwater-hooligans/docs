@@ -201,5 +201,5 @@ These groups you can self-join via [SEAT](https://deepwaterhooligans.com/).
 ### Capitals
 * T1 Dreads: 2.75b
 * Faction Dreads: 3.75b
-* FAX: 2.75b
+* FAX: 3.75b
 * Carriers: 2b
