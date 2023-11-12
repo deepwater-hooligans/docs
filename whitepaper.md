@@ -19,6 +19,8 @@ Some common instances of these and other things that might be okay in other plac
 * Use of "REEEEE" / "autistic screeching" to express frustration (^see above)
 * Xenophobia (see: sinophobia)
 
+Lastly, don't be a jerk. There should not need to be any examples cited for this. If you have to question whether your actions are unbecoming, they probably are. Be nice to your corp mates and alliance members, don't spam egregiously in local, don't leak anything said in any channel in BIGAB discord for any reason. This rule is interpreted by real people, not a machine, so toeing of the line will not be allowed and if you are found to violate this rule excessively, you will be removed.
+
 ## Comms Etiquette:
 * **Listening/Paying Attention**: This is the most important principle of being in a Deepwater Hooligans fleet. Everything you need to be successful in a fleet will either be provided verbally by the fleet team or in the MOTD of the fleet. Please avoid clouding up comms by asking questions that have already been answered or can be answered by reading the MOTD of the fleet. If you have to ask, please use text chat unless it is urgent, in which case you can ask on open comms. 
 * **Keeping comms clear**: During fleet ops, our comms channels can quickly become congested due to the size of our fleets. Unless explicitly permitted by the fleet organizer, please be considerate of your fellow alliance members and the fleet's command team. Ensure that comms remain clear to facilitate the effective relay and discussion of vital information. Even during moments that seem quiet, keep in mind that important discussions may be ongoing in the command whisper channel. Please note that not adhering to these rules may lead to global muting measures.
@@ -30,5 +32,3 @@ There are some topics that have been known to cause polarizing discussions with 
 * Politics (use the politics thread in #英文普遍聊天-general)
 * Religion (No channel, sorry, but the politics thread may be appropriate for certain religious topics)
 
-
-Lastly, don't be a jerk. There should not need to be any examples cited for this. If you have to question whether your actions are unbecoming, they probably are. Be nice to your corp mates and alliance members, don't spam egregiously in local, don't leak anything said in any channel in BIGAB discord for any reason. This rule is interpreted by real people, not a machine, so toeing of the line will not be allowed and if you are found to violate this rule excessively, you will be removed.
